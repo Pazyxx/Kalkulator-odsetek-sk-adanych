@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Kalkulator-odsetek-sk-adanych/static/css/main.daad43d1.css",
+    "main.css": "/Kalkulator-odsetek-sk-adanych/static/css/main.33dcbb88.css",
     "main.js": "/Kalkulator-odsetek-sk-adanych/static/js/main.d2c6ddfa.js",
     "static/js/787.eca05d0b.chunk.js": "/Kalkulator-odsetek-sk-adanych/static/js/787.eca05d0b.chunk.js",
     "static/media/background-pic.jpg": "/Kalkulator-odsetek-sk-adanych/static/media/background-pic.8c7a16e050422bd4327a.jpg",
     "index.html": "/Kalkulator-odsetek-sk-adanych/index.html",
-    "main.daad43d1.css.map": "/Kalkulator-odsetek-sk-adanych/static/css/main.daad43d1.css.map",
+    "main.33dcbb88.css.map": "/Kalkulator-odsetek-sk-adanych/static/css/main.33dcbb88.css.map",
     "main.d2c6ddfa.js.map": "/Kalkulator-odsetek-sk-adanych/static/js/main.d2c6ddfa.js.map",
     "787.eca05d0b.chunk.js.map": "/Kalkulator-odsetek-sk-adanych/static/js/787.eca05d0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.daad43d1.css",
+    "static/css/main.33dcbb88.css",
     "static/js/main.d2c6ddfa.js"
   ]
 }
